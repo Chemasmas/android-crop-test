@@ -73,7 +73,7 @@ public class Principal extends AppCompatActivity implements View.OnClickListener
                 .setFixAspectRatio(true)
                 .setAspectRatio(19,6)
                 .setActivityTitle("Recortando")
-                
+
                 .start(this);
 
     }
